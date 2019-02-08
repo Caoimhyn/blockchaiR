@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549611669380.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AB909255",
+    "lastKnownWriteTime" : 1549612226,
+    "last_content_update" : 1549612226015,
+    "path" : "D:/dev/workspace_R/blockchaiR/R/blockchaiR_API.R",
+    "project_path" : "R/blockchaiR_API.R",
+    "properties" : {
+        "cursorPosition" : "162,0",
+        "scrollLine" : "132",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
